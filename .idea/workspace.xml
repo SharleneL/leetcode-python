@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f42a02e-ae38-4d72-993c-2a32e840b7a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/solutions/binary-search/0221-287-md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/graph/0212-1267-md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/graph/0213-399-md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/graph/0217-127-md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/graph/0217-207-md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/graph/0217-210-hd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/graph/0217-785-md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/graph/0219-133-md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/graph/0219-310-md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/graph/0219-802-md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/presum/0221-724-es.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/two-pointers/0219-763-md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/two-pointers/0220-986-md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode-python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/tree/0206-1319-md.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/graph/0206-1319-md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/tree/0206-1722-md.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/graph/0206-1722-md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/tree/0206-547-md.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/graph/0206-547-md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/tree/0206-684-md.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/graph/0206-684-md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/tree/0206-990-md.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/graph/0206-990-md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/tree/0207-1202-md.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/graph/0207-1202-md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/tree/0207-841-md.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/graph/0207-841-md.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ogUMNAea8RDoOakXQXGjKtqRpF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/solutions/presum" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/solutions/presum" />
+      <recent name="$PROJECT_DIR$/solutions/binary-search" />
+      <recent name="$PROJECT_DIR$/solutions/two-pointers" />
+      <recent name="$PROJECT_DIR$/solutions/graph" />
+      <recent name="$PROJECT_DIR$/solutions/tree" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/solutions/graph" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.0217-785-md">
+    <configuration name="0206-1722-md" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions/tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/graph/0206-1722-md.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0217-210-hd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions/tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/graph/0217-210-hd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0217-785-md" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions/tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/graph/0217-785-md.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.0217-785-md" />
+        <item itemvalue="Python.0217-210-hd" />
+        <item itemvalue="Python.0206-1722-md" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f42a02e-ae38-4d72-993c-2a32e840b7a3" name="Default Changelist" comment="" />
+      <created>1613707679079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613707679079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
