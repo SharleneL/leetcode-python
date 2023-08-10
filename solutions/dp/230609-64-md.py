@@ -27,6 +27,37 @@ class Solution:
         minSum[i][j] = min(minSum[i-1][j], minSum[i][j-1]) + grid[i-1][j-1]
         return
 
+
+# Solution 2 - same
+# class Solution:
+#     def minPathSum(self, grid: List[List[int]]) -> int:
+#         rows = len(grid)
+#         cols = len(grid[0])
+#         minPath = [[None for _ in range(cols)] for _ in range(rows)]
+#
+#         for i in range(rows):
+#             for j in range(cols):
+#                 if i == 0 and j == 0:
+#                     minPath[i][j] = grid[i][j]
+#                 elif i == 0:
+#                     minPath[i][j] = minPath[i][j - 1] + grid[i][j]
+#                 elif j == 0:
+#                     minPath[i][j] = minPath[i - 1][j] + grid[i][j]
+#                 else:
+#                     minPath[i][j] = min(minPath[i][j - 1], minPath[i - 1][j]) + grid[i][j]
+#
+#         return minPath[rows - 1][cols - 1]
+
+
+"""
+m rows, n cols
+
+can cur step be inferred from prev results? yes
+minPath[i][j] = min(minPath[i-1][j], minPath[i][j-1]) + grid[i][j]
+
+if i==0
+
+
 # test
 if __name__ == '__main__':
     grid = [
